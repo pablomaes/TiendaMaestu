@@ -5,7 +5,7 @@ const ItemListContainer = ({titulo}) => {
     )
 }; 
 
-render(<ItemListContainer titulo="Encuento Infusiones"/>,
+render(<ItemListContainer titulo="Encuentro Infusiones"/>,
 document.getElementById('root'));
 
 
