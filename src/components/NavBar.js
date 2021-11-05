@@ -1,6 +1,9 @@
+import CartWidget from './CartWidget';
+
 function NavBar () {
     return (
           <>
+            <CartWidget/>
             <div>
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
               <div className="container-fluid">
